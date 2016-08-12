@@ -18,7 +18,7 @@ SITCON Yunlin CoFunder
 
 ### 專業技能
 **Xamarin Andriod Apps Dev**    
-**基於 MongoDB 或 DocumentDB 為主的大數據資料庫維護以及 Map Reduce 演算法研究 **     
+**基於 MongoDB 或 DocumentDB 為主的大數據資料庫維護以及 Map Reduce 演算法研究 **    
 **Hadoop Hbase 資料庫分析，以及傳統資料庫轉換大數據資料庫之相容分析**     
 **Openstack CloudBase IaaS 實作建設**     
 **Python Web Backend / Frontend   (網站前後端 (詳細可以見以下列表))**       
