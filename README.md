@@ -17,7 +17,7 @@ SITCON Yunlin CoFunder
 0muProject CoFunder    
 
 ### 專業技能
-**Xamarin Andriod Apps Dev**    
+**Xamarin Android Apps Dev**    
     
 **基於 MongoDB 或 DocumentDB 為主的大數據資料庫維護以及 Map Reduce 演算法研究**    
     
